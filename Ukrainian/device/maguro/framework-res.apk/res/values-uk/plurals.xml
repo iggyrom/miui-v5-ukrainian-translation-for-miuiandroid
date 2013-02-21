@@ -5,31 +5,31 @@
         <item quantity="one">1 секунду назад</item>
     </plurals>
     <plurals name="num_minutes_ago">
-        <item quantity="other">%d мин. назад</item>
-        <item quantity="one">1 минуту назад</item>
+        <item quantity="other">%d хв. назад</item>
+        <item quantity="one">1 хвилину назад</item>
     </plurals>
     <plurals name="num_hours_ago">
-        <item quantity="other">%d ч. назад</item>
-        <item quantity="one">1 час назад</item>
+        <item quantity="other">%d г. назад</item>
+        <item quantity="one">1 годину назад</item>
     </plurals>
     <plurals name="last_num_days">
-        <item quantity="other">Последние %d дн.</item>
+        <item quantity="other">Останні %d дн.</item>
     </plurals>
     <plurals name="num_days_ago">
         <item quantity="other">%d дн. назад</item>
-        <item quantity="one">вчера</item>
+        <item quantity="one">вчора</item>
     </plurals>
     <plurals name="in_num_seconds">
         <item quantity="other">через %d с.</item>
         <item quantity="one">через 1 секунду</item>
     </plurals>
     <plurals name="in_num_minutes">
-        <item quantity="other">через %d мин.</item>
-        <item quantity="one">через 1 минуту</item>
+        <item quantity="other">через %d хв.</item>
+        <item quantity="one">через 1 хвилину</item>
     </plurals>
     <plurals name="in_num_hours">
-        <item quantity="other">через %d ч.</item>
-        <item quantity="one">через 1 час</item>
+        <item quantity="other">через %d г.</item>
+        <item quantity="one">через 1 годину</item>
     </plurals>
     <plurals name="in_num_days">
         <item quantity="other">через %d дн.</item>
@@ -40,43 +40,43 @@
         <item quantity="one">1 сек. назад</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d мин. назад</item>
-        <item quantity="one">1 мин. назад</item>
+        <item quantity="other">%d хв. назад</item>
+        <item quantity="one">1 хв. назад</item>
     </plurals>
     <plurals name="abbrev_num_hours_ago">
-        <item quantity="other">%d ч. назад</item>
-        <item quantity="one">1 час назад</item>
+        <item quantity="other">%d г. назад</item>
+        <item quantity="one">1 годину назад</item>
     </plurals>
     <plurals name="abbrev_num_days_ago">
         <item quantity="other">%d дн. назад</item>
-        <item quantity="one">вчера</item>
+        <item quantity="one">вчора</item>
     </plurals>
     <plurals name="abbrev_in_num_seconds">
         <item quantity="other">через %d с.</item>
         <item quantity="one">через 1 с.</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">через %d мин.</item>
-        <item quantity="one">через 1 мин.</item>
+        <item quantity="other">через %d хв.</item>
+        <item quantity="one">через 1 хв.</item>
     </plurals>
     <plurals name="abbrev_in_num_hours">
-        <item quantity="other">через %d ч.</item>
-        <item quantity="one">через 1 час</item>
+        <item quantity="other">через %d г.</item>
+        <item quantity="one">через 1 годину</item>
     </plurals>
     <plurals name="abbrev_in_num_days">
         <item quantity="other">через %d дн.</item>
         <item quantity="one">завтра</item>
     </plurals>
     <plurals name="wifi_available">
-        <item quantity="other">Доступна сеть Wi-Fi</item>
-        <item quantity="one">Доступна сеть Wi-Fi</item>
+        <item quantity="other">Доступна мережа Wi-Fi</item>
+        <item quantity="one">Доступна мережа Wi-Fi</item>
     </plurals>
     <plurals name="wifi_available_detailed">
-        <item quantity="other">Найдены доступные сети Wi-Fi</item>
-        <item quantity="one">Найдена доступная сеть Wi-Fi</item>
+        <item quantity="other">Знайдені доступні мережі Wi-Fi</item>
+        <item quantity="one">Знайдена доступна мережа Wi-Fi</item>
     </plurals>
     <plurals name="matches_found">
-        <item quantity="other">%1$d из %2$d</item>
-        <item quantity="one">1 совпадение</item>
+        <item quantity="other">%1$d з %2$d</item>
+        <item quantity="one">1 співпадання</item>
     </plurals>
 </resources>
