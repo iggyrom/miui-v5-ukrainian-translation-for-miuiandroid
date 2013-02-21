@@ -2,66 +2,66 @@
 <resources>
   <!--Translated by KDev Group (main repository)-->
   <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
-  <string name="BaMmi">Заборона вызовов</string>
-  <string name="CLIRDefaultOffNextCallOff">Идентификация абонента по умолчанию не запрещена. След. вызов: разрешена</string>
-  <string name="CLIRDefaultOffNextCallOn">Идентификация абонента по умолчанию не запрещена. След. вызов: запрещена</string>
-  <string name="CLIRDefaultOnNextCallOff">Идентификация абонента по умолчанию запрещена. След. вызов: разрешена</string>
-  <string name="CLIRDefaultOnNextCallOn">Идентификация абонента по умолчанию запрещена. След. вызов: запрещена</string>
-  <string name="CLIRPermanent">Невозможно изменить настройку идентификации абонента.</string>
-  <string name="CfMmi">Переадресация вызова</string>
-  <string name="ClipMmi">Идентификация вызывающего абонента</string>
-  <string name="ClirMmi">Идентификация звонящего абонента</string>
+  <string name="BaMmi">Заборона викликів</string>
+  <string name="CLIRDefaultOffNextCallOff">Ідентифікація абонента за замовчуванням не заборонена. Наст. виклик: дозволена </string>
+  <string name="CLIRDefaultOffNextCallOn">Ідентифікація абонента за замовчуванням не заборонена. Наст. виклик: заборонена</string>
+  <string name="CLIRDefaultOnNextCallOff">Ідентифікація абонента за замовчуванням заборонена. Наст. виклик: дозволена</string>
+  <string name="CLIRDefaultOnNextCallOn"> Ідентифікація абонента за замовчуванням заборонена.Наст. виклик: заборонена</string>
+  <string name="CLIRPermanent">Неможливо змінити настройку ідентифікації абонента.</string>
+  <string name="CfMmi">Переадресація виклику</string>
+  <string name="ClipMmi">Ідентифікація абонента, що викликає Идентификация вызывающего абонента</string>
+  <string name="ClirMmi">Ідентифікація абонента, що телефонує</string>
   <string name="CndMmi">Доставка номера вызывающего абонента</string>
   <string name="CnipMmi">Вызывающий номер присутствует</string>
   <string name="CnirMmi">Вызывающий номер запрещен</string>
-  <string name="CwMmi">Параллельный вызов</string>
+  <string name="CwMmi">Параллельный виклик</string>
   <string name="DndMmi">Не турбувати</string>
-  <string name="Midnight">Полночь</string>
-  <string name="Noon">Полдень</string>
-  <string name="PinMmi">Смена PIN</string>
-  <string name="PwdMmi">Смена пароля</string>
-  <string name="RestrictedChangedTitle">Ограничения доступа изменены</string>
-  <string name="RestrictedOnAll">Все службы передачи голосовых сообщений/данных/SMS заблокированы.</string>
-  <string name="RestrictedOnAllVoice">Все службы передачи голосовых сообщений заблокированы.</string>
-  <string name="RestrictedOnData">Служба данных заблокирована.</string>
-  <string name="RestrictedOnEmergency">Служба экстренной помощи заблокирована.</string>
-  <string name="RestrictedOnNormal">Служба передачи голосовых сообщений заблокирована.</string>
-  <string name="RestrictedOnSms">Служба передачи SMS заблокирована.</string>
-  <string name="RestrictedOnVoiceData">Службы передачи голосовых сообщений/данных заблокированы.</string>
-  <string name="RestrictedOnVoiceSms">Службы передачи голосовых сообщений/SMS заблокированы.</string>
-  <string name="RuacMmi">Отклонение нежелательных звонков</string>
-  <string name="SetupCallDefault">Принять вызов?</string>
-  <string name="ThreeWCMmi">Вызов с участием трех абонентов</string>
+  <string name="Midnight">Північ</string>
+  <string name="Noon">П</string>
+  <string name="PinMmi">Зміна PIN</string>
+  <string name="PwdMmi">Зміна паролю</string>
+  <string name="RestrictedChangedTitle">Обмеження доступу змінені</string>
+  <string name="RestrictedOnAll">Всі служби передачі голосових повідомлень / даних / SMS заблоковані.</string>
+  <string name="RestrictedOnAllVoice">Всі служби передачі голосових повідомлень заблоковані.</string>
+  <string name="RestrictedOnData">Служба даних заблокована.</string>
+  <string name="RestrictedOnEmergency">Служба екстреної допомоги заблокована.</string>
+  <string name="RestrictedOnNormal">Служба передачі голосових повідомлень заблокована.</string>
+  <string name="RestrictedOnSms">Служба передачі SMS заблокована.</string>
+  <string name="RestrictedOnVoiceData">Служби передачі голосових повідомлень / даних заблоковані.</string>
+  <string name="RestrictedOnVoiceSms">Служби передачі голосових повідомлень / SMS заблоковані.</string>
+  <string name="RuacMmi">Відхилення небажаних дзвінків</string>
+  <string name="SetupCallDefault">Прийняти виклик?</string>
+  <string name="ThreeWCMmi">Виклик за участю трьох абонентів</string>
   <string name="VideoView_error_button">ОК</string>
-  <string name="VideoView_error_text_invalid_progressive_playback">Это видео не подходит для потокового воспроизведения на данном устройстве.</string>
-  <string name="VideoView_error_text_unknown">Невозможно воспроизвести видео.</string>
-  <string name="VideoView_error_title">Не удалось воспроизвести видео</string>
+  <string name="VideoView_error_text_invalid_progressive_playback">Це відео не підходить для потокового відтворення на цьому пристрої.</string>
+  <string name="VideoView_error_text_unknown">Неможливо відтворити відео.</string>
+  <string name="VideoView_error_title">Не вдалося відтворити відео</string>
   <string name="abbrev_month">%-b</string>
   <string formatted="false" name="abbrev_month_day">%-e %b</string>
   <string formatted="false" name="abbrev_month_day_year">%d.%m.%Y</string>
   <string formatted="false" name="abbrev_month_year">%-b %Y</string>
   <string name="abbrev_wday_month_day_no_year">EEE, d MMMM</string>
   <string name="abbrev_wday_month_day_year">EEE, d MMM yyyy</string>
-  <string name="accessibility_binding_label">Спец. возможности</string>
-  <string name="action_bar_home_description">Перейти на главную</string>
-  <string name="action_bar_up_description">Перейти вверх</string>
+  <string name="accessibility_binding_label">Спец. можливості</string>
+  <string name="action_bar_home_description">Перейти на головну</string>
+  <string name="action_bar_up_description">Перейти вгору</string>
   <string name="action_menu_overflow_description">Ще</string>
   <string name="action_mode_done">Готово</string>
-  <string name="activity_chooser_view_dialog_title_default">Выбор действия</string>
-  <string name="activity_chooser_view_see_all">Просмотреть все</string>
-  <string name="activity_list_empty">Подходящих действий не найдено</string>
-  <string name="activitychooserview_choose_application">Выберите приложение</string>
-  <string name="adb_active_notification_message">Нажмите, чтобы отключить отладку USB</string>
-  <string name="adb_active_notification_title">Отладка по USB разрешена</string>
-  <string name="addToDictionary">добавить в словарь</string>
-  <string name="add_account_button_label">Добавить аккаунт</string>
-  <string name="add_account_label">Добавить аккаунт</string>
-  <string name="aerr_application">У програмі \"%1$s\" виникла поилка</string>
-  <string name="aerr_process">В процессі \"%1$s\" виникла поилка</string>
+  <string name="activity_chooser_view_dialog_title_default">Вибір дії</string>
+  <string name="activity_chooser_view_see_all">Переглянути всі</string>
+  <string name="activity_list_empty">Відповідних дій не знайдено</string>
+  <string name="activitychooserview_choose_application">Виберіть програму</string>
+  <string name="adb_active_notification_message">Натисніть, щоб відключити налагодження USB</string>
+  <string name="adb_active_notification_title">Налагодження по USB дозволена</string>
+  <string name="addToDictionary">додати в словник</string>
+  <string name="add_account_button_label">Додати акаунт</string>
+  <string name="add_account_label">Додати акаунт</string>
+  <string name="aerr_application">У програмі \"%1$s\" виникла помилка</string>
+  <string name="aerr_process">В процесі \"%1$s\" виникла помилка</string>
   <string name="aerr_title" />
   <string name="allow">Дозволити</string>
   <string name="alternate_eri_file">/data/eri.xml</string>
-  <string name="alwaysUse">По умолчанию для этого действия</string>
+  <string name="alwaysUse">За замовчуванням для цієї дії</string>
   <string name="am">AM</string>
   <string name="android_system_label">Система Android</string>
   <string name="android_upgrading_apk">Оптимизація програми %1$d з %2$d</string>
@@ -71,13 +71,13 @@
   <string name="anr_activity_application">"Програма \"%2$s\" не відповідає.
 
 вона буде закрита"</string>
-  <string name="anr_activity_process">"Приложение \"%1$s\" не отвечает.
+  <string name="anr_activity_process">"Програма \"%1$s\" не відповідає.
 
-Закрыть его?"</string>
-  <string name="anr_application_process">Приложение \"%1$s\" не отвечает. Закрыть его?</string>
-  <string name="anr_process">"Приложение \"%1$s\" не отвечает.
+Закрити?"</string>
+  <string name="anr_application_process">Програма \"%1$s\" не відповідає. Закрити?</string>
+  <string name="anr_process">"Програма \"%1$s\" не відповідає.
 
-Закрыть его?"</string>
+Закрити?"</string>
   <string name="anr_title" />
   <string name="autofill_address_line_1_label_re">address|adresse|indirizzo|住所|地址</string>
   <string name="autofill_address_line_1_re">address.?line|address1|addr1|street|strasse|straße|hausnummer|housenumber|house.?name|direccion|dirección|adresse|indirizzo|住所1|morada|endereço|Адрес|地址</string>
